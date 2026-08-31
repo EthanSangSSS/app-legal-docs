@@ -4,6 +4,12 @@ Public legal documents, privacy policies, terms, and support pages for Ethan San
 
 This repository is only for public App Store / TestFlight legal and support pages. It must not contain app source code, private identity records, tax records, banking details, Apple account information, repository credentials, provisioning profiles, certificates, or any non-public credential material.
 
+## Licensing and reuse
+
+This is a **public legal-content repository**, not an open-source software distribution. Public access to these pages does not by itself grant permission to copy, modify, republish, or reuse the legal text, branding, app-specific wording, or support content.
+
+Unless a file or directory explicitly carries a separate license, all rights in the repository's original legal/support content are reserved by the copyright holder. Third-party material remains subject to its own terms. If reusable site code or templates are introduced later, they should be separated from app-specific legal text and licensed explicitly rather than relying on repository visibility.
+
 ## Canonical GitHub Pages Host
 
 Use:
@@ -79,3 +85,4 @@ Then open:
 - Do not store private identity, tax, banking, Apple account, certificate, provisioning profile, repository credential, or other non-public credential material in this repository.
 - Do not add third-party JavaScript, analytics, trackers, or external fonts to these legal pages.
 - Placeholder pages for unreleased apps must not be used in App Store Connect until the relevant app is ready.
+- Treat any change to app data collection, OCR/image processing, analytics, account systems, cloud sync, payments, third-party APIs, or external-link behavior as requiring a legal-page drift review before release.
